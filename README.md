@@ -6,6 +6,8 @@ On this journey, I will deep-dive into libraries such as numpy, pandas, matplotl
 
 Based off "Zero to Pandas" Course. 
 
-_update:_ 
+
+
+_updates:_ 
 - finished visualization (using matplotlib & seaborn)
 - now on to exploritory data analysis (an EDA project will then follow)
